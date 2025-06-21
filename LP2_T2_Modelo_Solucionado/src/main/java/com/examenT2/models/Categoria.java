@@ -19,3 +19,5 @@ public class Categoria {
 	@Column(name = "descripcion")
 	private String descripcion;
 }
+
+//asdasdadadadasdaddasds pruebas
